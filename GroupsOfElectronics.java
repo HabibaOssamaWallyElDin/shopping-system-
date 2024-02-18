@@ -1,0 +1,6 @@
+package shopping;
+
+public enum GroupsOfElectronics {
+	
+	TV,PC_COMPUTERS,LAPTOPS,AIR_CONDITIONAR,MOBILE_PHONES,DISH_WASHER,REFRIGERATORS
+}
